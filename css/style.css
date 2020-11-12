@@ -157,10 +157,6 @@ body .container {
   display: flex 0 0 100%;
 }
 
-body .container #reg-form {
-  padding-bottom: 45px;
-}
-
 body .container .header {
   margin: 0 0 30px;
   z-index: 1;

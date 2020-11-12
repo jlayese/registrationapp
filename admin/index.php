@@ -6,7 +6,7 @@
 </head>
 <body>
   <div id="disp_data"></div>
-  <form name="form1" action="" method="POST">
+    <form name="form1" action="" method="POST">
     <input type="text" id="addname" placeholder="Add new name">
     <input type="text" id="addcity" placeholder="Add new city">
     <input type="button" id="btn" value="ADD" placeholder="Add new city" onclick="insertdata()">
